@@ -1,3 +1,3 @@
 # QRScanner
 
-Jaga
+Keerthana
